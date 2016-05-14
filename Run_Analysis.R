@@ -113,5 +113,3 @@ Type 'q()' to quit R.
 > 
 > # Export the tidyData set 
 > write.table(tidyData, './tidyData.txt',row.names=TRUE,sep='\t');
-> 
-> 
